@@ -1,0 +1,25 @@
+{
+  "name": "Songsar Khoroch",
+  "short_name": "Songsar Khoroch",
+  "description": "Household expense tracker for Mahul, Tutul & Tukun",
+  "start_url": "/ghar-ka-hisab/",
+  "scope": "/ghar-ka-hisab/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0e0c",
+  "theme_color": "#e8c87a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
